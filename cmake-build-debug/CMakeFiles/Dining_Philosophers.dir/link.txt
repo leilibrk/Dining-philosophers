@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/Dining_Philosophers.dir/main.c.o -o Dining_Philosophers.exe -Wl,--out-implib,libDining_Philosophers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
